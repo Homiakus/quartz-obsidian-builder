@@ -1,0 +1,63 @@
+{
+  "timestamp": "2025-08-26T19:15:45.339352",
+  "metrics": [
+    {
+      "name": "Прогресс проектов",
+      "value": 72.08285673357213,
+      "unit": "%",
+      "status": "warning"
+    },
+    {
+      "name": "Бюджет использован",
+      "value": 71.91775699745982,
+      "unit": "%",
+      "status": "warning"
+    },
+    {
+      "name": "Риски",
+      "value": 0.9977523649068254,
+      "unit": "шт",
+      "status": "error"
+    },
+    {
+      "name": "Качество документации",
+      "value": 94.76480038312752,
+      "unit": "%",
+      "status": "success"
+    },
+    {
+      "name": "Время до дедлайна",
+      "value": 11.736430724322533,
+      "unit": "дней",
+      "status": "error"
+    },
+    {
+      "name": "Ресурсы загружены",
+      "value": 70.40024123019944,
+      "unit": "%",
+      "status": "warning"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Кардиостимулятор",
+      "progress": 99.73714240743725,
+      "status": "active"
+    },
+    {
+      "name": "Инсулиновая помпа",
+      "progress": 100,
+      "status": "active"
+    },
+    {
+      "name": "МРТ сканер",
+      "progress": 100,
+      "status": "active"
+    },
+    {
+      "name": "Глюкометр",
+      "progress": 95.0,
+      "status": "completed"
+    }
+  ]
+}

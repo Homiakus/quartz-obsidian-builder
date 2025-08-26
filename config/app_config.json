@@ -1,0 +1,12 @@
+{
+    "MainWindow": {
+        "ThemeMode": "Light",
+        "PrimaryColor": "#0078d4",
+        "EnableAnimations": true
+    },
+    "Deployment": {
+        "DefaultMode": "GitHub",
+        "QuartzRepoURL": "https://github.com/jackyzha0/quartz.git",
+        "DeployBranch": "gh-pages"
+    }
+}
